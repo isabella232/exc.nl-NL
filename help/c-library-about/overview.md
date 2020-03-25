@@ -1,12 +1,9 @@
 ---
 description: De Adobe Experience Cloud Library is een universele en gecentraliseerde ervaring voor het opslaan, zoeken en selecteren van middelen in Adobe Experience Cloud Solutions.
-seo-description: De Adobe Experience Cloud Library is een universele en gecentraliseerde ervaring voor het opslaan, zoeken en selecteren van middelen in Adobe Experience Cloud Solutions.
-seo-title: Adobe Experience Cloud Library
-solution: Experience Manager
 title: Adobe Experience Cloud Library
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 translation-type: tm+mt
-source-git-commit: 2bcf89a108df9360476478703a36ad7783b736db
+source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
 
 ---
 
