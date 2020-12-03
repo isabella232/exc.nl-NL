@@ -1,19 +1,22 @@
 ---
-description: Gedetailleerde informatie over middelen, waaronder versies, vindt u in de Adobe Experience Cloud-bibliotheek.
-seo-description: Gedetailleerde informatie over middelen, waaronder versies, vindt u in de Adobe Experience Cloud-bibliotheek.
+description: Bekijk gedetailleerde informatie over elementen, waaronder versies, in de Adobe Experience Cloud-bibliotheek.
+seo-description: Bekijk gedetailleerde informatie over elementen, waaronder versies, in de Adobe Experience Cloud-bibliotheek.
 seo-title: Gedetailleerde informatie voor een element weergeven
 solution: Experience Manager
 title: Gedetailleerde informatie voor een element weergeven
 uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
 
 # Gedetailleerde informatie voor een element weergeven{#view-detailed-information-for-an-asset}
 
-Gedetailleerde informatie over middelen, waaronder versies, vindt u in de Adobe Experience Cloud-bibliotheek.
+Bekijk gedetailleerde informatie over elementen, waaronder versies, in de Adobe Experience Cloud-bibliotheek.
 
 Gedetailleerde informatie over elementen, waaronder versies, weergeven in de Experience Cloud-bibliotheek:
 
