@@ -7,6 +7,9 @@ title: Een verouderd element permanent verwijderen
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 U kunt een getrapt element permanent verwijderen uit de Adobe Experience Cloud-bibliotheek.
 
-Wanneer u een item in de prullenbak prullenmand opslaat, woont het 60 dagen in het gebied Verlopen items in de Experience Cloud Library. Als u items niet herstelt, verwijdert Experience Cloud Library deze na 60 dagen definitief.
+Als je een object in de prullenbak prullenmand, woont het 60 dagen in het gebied Verlopen items in de Experience Cloud-bibliotheek. Als u items niet herstelt, worden deze na 60 dagen definitief verwijderd uit de Experience Cloud-bibliotheek.
 
 U kunt een neergezet element binnen 60 dagen definitief verwijderen door:
 
