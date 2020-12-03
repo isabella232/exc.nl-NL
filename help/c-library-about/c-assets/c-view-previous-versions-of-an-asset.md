@@ -1,19 +1,22 @@
 ---
-description: U kunt vorige versies van een middel in de Bibliotheek van de Wolk van de Ervaring van Adobe bekijken.
-seo-description: U kunt vorige versies van een middel in de Bibliotheek van de Wolk van de Ervaring van Adobe bekijken.
+description: U kunt vorige versies van een element weergeven in de Adobe Experience Cloud-bibliotheek.
+seo-description: U kunt vorige versies van een element weergeven in de Adobe Experience Cloud-bibliotheek.
 seo-title: Eerdere versies van een element weergeven
 solution: Experience Manager
 title: Eerdere versies van een element weergeven
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 
 # Eerdere versies van een element weergeven{#view-previous-versions-of-an-asset}
 
-U kunt vorige versies van een middel in de Bibliotheek van de Wolk van de Ervaring van Adobe bekijken.
+U kunt vorige versies van een element weergeven in de Adobe Experience Cloud-bibliotheek.
 
 Eerdere versies van een element weergeven in de Experience Cloud-bibliotheek:
 
