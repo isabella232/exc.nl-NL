@@ -7,6 +7,9 @@ title: Creative Cloud-bestanden importeren in de Adobe Experience Cloud-biblioth
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '166'
+ht-degree: 3%
 
 ---
 
