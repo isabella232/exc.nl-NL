@@ -7,6 +7,9 @@ title: Elementen filteren
 uuid: 8a707d6d-1905-4934-b35b-034a337b17f7
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 U kunt elementen filteren in de Adobe Experience Cloud-bibliotheek.
 
-Elementen filteren in de Experience Cloud Library:
+Elementen filteren in de Experience Cloud-bibliotheek:
 
 1. Klik op het trechter-pictogram om elementen te filteren.
 
