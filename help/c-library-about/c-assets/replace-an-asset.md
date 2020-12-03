@@ -7,6 +7,9 @@ title: Een element vervangen
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
 translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 U kunt middelen vervangen in de Adobe Experience Cloud-bibliotheek.
 
-Een element vervangen in de Experience Cloud-bibliotheek:
+Een element in de Experience Cloud-bibliotheek vervangen:
 
 1. Klik op een element.
 1. Klik op het **[!UICONTROL More Options]** menu (ellips) naast het element.
