@@ -1,17 +1,20 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Learn & Support
-solution-title: Ervaar de Cloud Core-services
+solution-title: Experience Cloud Core Services
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: Aan de slag
 getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
-tutorials-title: Campagnestandaard
+tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
-git-repo: https://github.com/AdobeDocs/exc.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.nl-NL
 index: false
 translation-type: tm+mt
-source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
+source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 67%
 
 ---
 
@@ -20,24 +23,24 @@ source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
+Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
 
-| metagegevens | wat het doet |
+| metadata | wat het doet |
 |--- |--- |
-| titel oplossing | Gebruikt in artikelkoptekst als koppeling |
-| oplossing-hub-url | Opent helpx-hubpagina |
-| oplossingspictogram | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
-| aan de slag-titel | Wordt zelden gebruikt wanneer zelfstudies niet geschikt zijn |
-| aan de slag-url | Aan de slag met Help-pagina koppelen |
-| zelfstudies, titel | Wordt zelden gebruikt wanneer zelfstudies niet geschikt zijn |
-| zelfstudies-url | Koppeling maken naar videozelfstudies: helpx-zelfstudies of KT-zelfstudies |
-| mini-toc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
+| solution-title | Gebruikt in artikelkoptekst als koppeling |
+| solution-hub-url | Opent helpx-hubpagina |
+| solution-icon | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
+| aan de slag-titel | Zelden gebruikt wanneer Tutorials niet geschikt is |
+| getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
+| zelfstudies, titel | Zelden gebruikt wanneer Tutorials niet geschikt is |
+| tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
+| mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
 | git-repo | Hier geeft u de locatie op van het samenwerkingsantwoord. De spiegel github.com gebruiken voor openbare documenten |
 | index | set index=no for soft launch |
 
-In bestand TOC.md
+In TOC.md-bestand
 
 | metagegevens | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
-| gebruikershandleiding-url | Opent helpx-hubpagina |
+| user-guide-url | Opent helpx-hubpagina |
