@@ -1,14 +1,13 @@
 ---
 description: Upload elementen van uw apparaat om deze te beheren in de Adobe Experience Cloud-bibliotheek.
-seo-description: Upload elementen van uw apparaat om deze te beheren in de Adobe Experience Cloud-bibliotheek.
-seo-title: Element uploaden vanaf apparaat
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Element uploaden vanaf apparaat
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---

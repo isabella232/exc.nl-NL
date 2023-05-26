@@ -1,14 +1,13 @@
 ---
 description: Importeer bestanden van Dropbox naar de Adobe Experience Cloud-bibliotheek om deze te beheren vanuit elk Adobe Experience Cloud-product.
-seo-description: Importeer bestanden van Dropbox naar de Adobe Experience Cloud-bibliotheek om deze te beheren vanuit elk Adobe Experience Cloud-product.
-seo-title: Dropbox-bestanden importeren in de Adobe Experience Cloud-bibliotheek
+seo-description: Import files from Dropbox into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Dropbox Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Dropbox-bestanden importeren in de Adobe Experience Cloud-bibliotheek
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---

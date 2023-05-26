@@ -1,14 +1,13 @@
 ---
 description: Zoeken naar elementen in de Adobe Experience Cloud-bibliotheek om middelen in de hele organisatie of in een specifieke map te zoeken.
-seo-description: Zoeken naar elementen in de Adobe Experience Cloud-bibliotheek om middelen in de hele organisatie of in een specifieke map te zoeken.
-seo-title: Zoeken naar elementen
+seo-description: Search for assets in the Adobe Experience Cloud Library to find assets across the organization or in a specific folder.
+seo-title: Search for Assets
 solution: Experience Manager
 title: Zoeken naar elementen
 uuid: 882ff4db-5bca-456c-888c-220c70eadce7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---

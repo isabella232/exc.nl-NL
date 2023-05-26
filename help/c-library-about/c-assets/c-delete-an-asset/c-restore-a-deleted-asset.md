@@ -1,14 +1,13 @@
 ---
 description: U kunt een middel herstellen dat u in de Adobe Experience Cloud-bibliotheek hebt neergezet.
-seo-description: U kunt een middel herstellen dat u in de Adobe Experience Cloud-bibliotheek hebt neergezet.
-seo-title: Een opgeschoond element herstellen
+seo-description: You can restore an asset you trashed in the Adobe Experience Cloud Library.
+seo-title: Restore a Trashed Asset
 solution: Experience Manager
 title: Een opgeschoond element herstellen
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Verlopen elementen eerder dan 60 dagen herstellen met:
    ![](assets/library_general_trashed_items.png)
 
 1. Klik op een of meer items om te herstellen.
-1. Klik op **[!UICONTROL More Info > Restore]**.
+1. Klikken op **[!UICONTROL More Info > Restore]**.
 
    ![](assets/library_restore_perm_delete.png)
 

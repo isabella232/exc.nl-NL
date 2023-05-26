@@ -1,14 +1,13 @@
 ---
 description: Importeer bestanden van Creative Cloud naar de Adobe Experience Cloud-bibliotheek om deze te beheren vanuit elk Adobe Experience Cloud-product.
-seo-description: Importeer bestanden van Creative Cloud naar de Adobe Experience Cloud-bibliotheek om deze te beheren vanuit elk Adobe Experience Cloud-product.
-seo-title: Creative Cloud-bestanden importeren in de Adobe Experience Cloud-bibliotheek
+seo-description: Import files from Creative Cloud into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Creative Cloud Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Creative Cloud-bestanden importeren in de Adobe Experience Cloud-bibliotheek
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '136'
 ht-degree: 3%
 
 ---
